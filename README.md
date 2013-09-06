@@ -4,8 +4,9 @@ massive-nemesis
 Just some peronal link notes ... XD
 
 ## CSS
-- (CSS3 Animation Cheat Sheet) [http://www.justinaguilar.com/animations/]
+- CSS3 Animation Cheat Sheet [http://www.justinaguilar.com/animations/]
 - Bootstrap
+
 ```
 <!-- Latest compiled and minified CSS -->
 <link rel="stylesheet" href="//netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap.min.css">
@@ -18,10 +19,10 @@ Just some peronal link notes ... XD
 ```
 
 ## JavaScript & jQuery
-- (tQuery: three.js + jQuery) [http://jeromeetienne.github.io/tquery/]
+- tQuery: three.js + jQuery [http://jeromeetienne.github.io/tquery/]
 
 ## HTML 5
-- (HTML5 Audio) [http://www.html5audio.org/]
+- HTML5 Audio [http://www.html5audio.org/]
 
 ## Others
-- (Google Cast examples) [https://github.com/googlecast/]
+- Google Cast examples [https://github.com/googlecast/]
